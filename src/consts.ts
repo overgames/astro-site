@@ -23,6 +23,7 @@ export const SITE_METADATA = {
     twitter: 'https://twitter.com/goobymcgoob',
     facebook: 'https://www.facebook.com/profile.php?id=100076060761362',
     youtube: 'https://www.youtube.com/channel/UCMh2pzX7A1s-x7sCgJWCxMw',
+    instagram: 'https://www.instagram.com/helloderekm/'
 
     // These are not supported yet
     // analytics: {
